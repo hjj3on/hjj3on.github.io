@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Hong Jun Jeon</title>
+    <link>https://hjjeon.github.io/categories/publications/</link>
+    <description>Recent content in Publications on Hong Jun Jeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hjjeon.github.io/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Information Theoretic Framework for Deep Learning</title>
+      <link>https://hjjeon.github.io/p/info-theory-deep-learning/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/p/info-theory-deep-learning/</guid>
+      <description>Authors  Hong Jun Jeon
+Department of Computer Science,
+Stanford University
+ Benjamin Van Roy
+Department of Electrical Engineering,
+Department of Management Sciences and Engineering,
+Stanford University
+Abstract  Each year, deep learning demonstrate new and improved empirical results with deeper and wider neural networks. Meanwhile, with existing theoretical frameworks, it is difficult to analyze networks deeper than two layers without resorting to counting parameters or encountering sample complexity bounds that are exponential in depth.</description>
+    </item>
+    
+    <item>
+      <title>Reward Rational (Implicit) Choice: a unifying formalism for reward learning</title>
+      <link>https://hjjeon.github.io/p/rric/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/p/rric/</guid>
+      <description>Authors  Hong Jun Jeon
+Department of Computer Science,
+Stanford University
+ Smitha Milli
+Department of Computer Science,
+UC Berkeley
+ Anca D. Dragan
+Department of Computer Science,
+UC Berkeley
+Abstract  It is often difficult to hand-specify what the correct reward function is for a task, so researchers have instead aimed to learn reward functions from human behavior or feedback. The types of behavior interpreted as evidence of the reward function have expanded greatly in recent years.</description>
+    </item>
+    
+    <item>
+      <title>Shared Autonomy with Learned Latent Actions</title>
+      <link>https://hjjeon.github.io/p/sall/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/p/sall/</guid>
+      <description>Authors  Hong Jun Jeon
+Department of Computer Science,
+Stanford University
+ Dylan P. Losey
+Department of Mechanical Engineering,
+Virginia Tech
+ Dorsa Sadigh
+Department of Computer Science,
+Department of Electrical Engineering,
+Stanford University
+Abstract  Assistive robots enable people with disabilities to conduct everyday tasks on their own. However, these tasks can be complex, containing both coarse reaching motions and fine-grained manipulation. For example, when eating, not only does one need to move to the correct food item, but they must also precisely manipulate the food in different ways (e.</description>
+    </item>
+    
+    <item>
+      <title>Configuration Space Metrics</title>
+      <link>https://hjjeon.github.io/p/csm/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/p/csm/</guid>
+      <description>Authors  Hong Jun Jeon
+Department of Computer Science,
+Stanford University
+ Anca D. Dragan
+Department of Computer Science,
+UC Berkeley
+Abstract  When robot manipulators decide how to reach for an object, hand it over, or obey some task constraint, they implicitly assume a Euclidean distance metric in their configuration space. Their notion of what makes a configuration closer or further is dictated by this assumption. But different distance metrics will lead to different solutions.</description>
+    </item>
+    
+  </channel>
+</rss>

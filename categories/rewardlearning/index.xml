@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RewardLearning on Hong Jun Jeon</title>
+    <link>https://hjjeon.github.io/categories/rewardlearning/</link>
+    <description>Recent content in RewardLearning on Hong Jun Jeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hjjeon.github.io/categories/rewardlearning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reward Rational (Implicit) Choice: a unifying formalism for reward learning</title>
+      <link>https://hjjeon.github.io/p/rric/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/p/rric/</guid>
+      <description>Authors  Hong Jun Jeon
+Department of Computer Science,
+Stanford University
+ Smitha Milli
+Department of Computer Science,
+UC Berkeley
+ Anca D. Dragan
+Department of Computer Science,
+UC Berkeley
+Abstract  It is often difficult to hand-specify what the correct reward function is for a task, so researchers have instead aimed to learn reward functions from human behavior or feedback. The types of behavior interpreted as evidence of the reward function have expanded greatly in recent years.</description>
+    </item>
+    
+  </channel>
+</rss>
