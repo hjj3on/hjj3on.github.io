@@ -6,7 +6,26 @@
     <description>Recent content in InformationTheory on Hong Jun Jeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hjjeon.github.io/categories/informationtheory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hjjeon.github.io/categories/informationtheory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Information Theoretic Framework for Supervised Learning</title>
+      <link>https://hjjeon.github.io/p/info-theory-supervised-learning/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/p/info-theory-supervised-learning/</guid>
+      <description>Authors  Hong Jun Jeon
+Department of Computer Science,
+Stanford University
+ Yifan Zhu
+Department of Electrical Engineering,
+Stanford University
+ Benjamin Van Roy
+Department of Electrical Engineering,
+Department of Management Sciences and Engineering,
+Stanford University
+Abstract  Each year, deep learning demonstrates new and improved empirical results with deeper and wider neural networks. Meanwhile, with existing theoretical frameworks, it is difficult to analyze networks deeper than two layers without resorting to counting parameters or encountering sample complexity bounds that are exponential in depth.</description>
+    </item>
+    
     <item>
       <title>An Information Theoretic Framework for Deep Learning</title>
       <link>https://hjjeon.github.io/p/info-theory-deep-learning/</link>

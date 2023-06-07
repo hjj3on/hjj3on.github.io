@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award on Hong Jun Jeon</title>
+    <link>https://hjjeon.github.io/categories/award/</link>
+    <description>Recent content in Award on Hong Jun Jeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hjjeon.github.io/categories/award/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shared Autonomy with Learned Latent Actions</title>
+      <link>https://hjjeon.github.io/p/sall/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/p/sall/</guid>
+      <description>Authors  Hong Jun Jeon
+Department of Computer Science,
+Stanford University
+ Dylan P. Losey
+Department of Mechanical Engineering,
+Virginia Tech
+ Dorsa Sadigh
+Department of Computer Science,
+Department of Electrical Engineering,
+Stanford University
+Abstract  Assistive robots enable people with disabilities to conduct everyday tasks on their own. However, these tasks can be complex, containing both coarse reaching motions and fine-grained manipulation. For example, when eating, not only does one need to move to the correct food item, but they must also precisely manipulate the food in different ways (e.</description>
+    </item>
+    
+    <item>
+      <title>Configuration Space Metrics</title>
+      <link>https://hjjeon.github.io/p/csm/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/p/csm/</guid>
+      <description>Authors  Hong Jun Jeon
+Department of Computer Science,
+Stanford University
+ Anca D. Dragan
+Department of Computer Science,
+UC Berkeley
+Abstract  When robot manipulators decide how to reach for an object, hand it over, or obey some task constraint, they implicitly assume a Euclidean distance metric in their configuration space. Their notion of what makes a configuration closer or further is dictated by this assumption. But different distance metrics will lead to different solutions.</description>
+    </item>
+    
+  </channel>
+</rss>

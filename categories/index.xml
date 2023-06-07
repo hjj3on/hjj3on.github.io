@@ -6,38 +6,83 @@
     <description>Recent content in Categories on Hong Jun Jeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hjjeon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hjjeon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DeepLearningTheory</title>
-      <link>https://hjjeon.github.io/categories/deeplearningtheory/</link>
-      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <title>Award</title>
+      <link>https://hjjeon.github.io/categories/award/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hjjeon.github.io/categories/deeplearningtheory/</guid>
+      <guid>https://hjjeon.github.io/categories/award/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>InformationTheory</title>
-      <link>https://hjjeon.github.io/categories/informationtheory/</link>
-      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <title>Blog</title>
+      <link>https://hjjeon.github.io/categories/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hjjeon.github.io/categories/informationtheory/</guid>
+      <guid>https://hjjeon.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Theory</title>
+      <link>https://hjjeon.github.io/categories/dlt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/categories/dlt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Theory</title>
+      <link>https://hjjeon.github.io/categories/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/categories/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japanese</title>
+      <link>https://hjjeon.github.io/categories/japan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/categories/japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>https://hjjeon.github.io/categories/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/categories/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://hjjeon.github.io/categories/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://hjjeon.github.io/categories/publications/</link>
-      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hjjeon.github.io/categories/publications/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RewardLearning</title>
+      <title>Reward Learning</title>
       <link>https://hjjeon.github.io/categories/rewardlearning/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hjjeon.github.io/categories/rewardlearning/</guid>
       <description></description>
@@ -46,9 +91,18 @@
     <item>
       <title>Robotics</title>
       <link>https://hjjeon.github.io/categories/robotics/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hjjeon.github.io/categories/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stanford</title>
+      <link>https://hjjeon.github.io/categories/stanford/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjjeon.github.io/categories/stanford/</guid>
       <description></description>
     </item>
     
